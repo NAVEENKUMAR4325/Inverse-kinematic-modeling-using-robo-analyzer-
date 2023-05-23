@@ -51,9 +51,18 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 
 
 ### SIMULATION 
+ RPR:
+ ![Rpr1](https://github.com/NAVEENKUMAR4325/Inverse-kinematic-modeling-using-robo-analyzer-/assets/119479566/7fd31f74-d849-4786-9127-2a85a7ee4019)
+
+ ![rpr2](https://github.com/NAVEENKUMAR4325/Inverse-kinematic-modeling-using-robo-analyzer-/assets/119479566/0167f499-bc2b-48c7-9165-0fc0b3a4d07e)
+
+ 3R Robot
  
+ ![3R 1](https://github.com/NAVEENKUMAR4325/Inverse-kinematic-modeling-using-robo-analyzer-/assets/119479566/a0c18c36-d5fe-4258-9638-fbe0330a75ab)
  
- 
+ ![3r 2](https://github.com/NAVEENKUMAR4325/Inverse-kinematic-modeling-using-robo-analyzer-/assets/119479566/ceef8341-03ed-4d76-8646-d20ab0060b67)
+
+
  
  
  
