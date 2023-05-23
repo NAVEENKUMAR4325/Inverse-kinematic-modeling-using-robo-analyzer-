@@ -52,6 +52,7 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 
 ### SIMULATION 
  RPR:
+ 
  ![Rpr1](https://github.com/NAVEENKUMAR4325/Inverse-kinematic-modeling-using-robo-analyzer-/assets/119479566/7fd31f74-d849-4786-9127-2a85a7ee4019)
 
  ![rpr2](https://github.com/NAVEENKUMAR4325/Inverse-kinematic-modeling-using-robo-analyzer-/assets/119479566/0167f499-bc2b-48c7-9165-0fc0b3a4d07e)
@@ -67,7 +68,25 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
  
  
  
- ### PLOT 
+ ### PLOT:
+ 
+ RPR Robot
+ 
+ ![pl  rpr1](https://github.com/NAVEENKUMAR4325/Inverse-kinematic-modeling-using-robo-analyzer-/assets/119479566/074b0c14-1b72-46d1-a9d3-d553c0264d33)
+ 
+ ![pl rpr2](https://github.com/NAVEENKUMAR4325/Inverse-kinematic-modeling-using-robo-analyzer-/assets/119479566/65d39f5f-ff14-4e11-a3e1-d931805cd656)
+ 
+ 3R Robot
+ 
+ ![pl 3r1](https://github.com/NAVEENKUMAR4325/Inverse-kinematic-modeling-using-robo-analyzer-/assets/119479566/015248fe-c0cc-4c85-87e4-747534192616)
+ 
+ ![pl 3r2](https://github.com/NAVEENKUMAR4325/Inverse-kinematic-modeling-using-robo-analyzer-/assets/119479566/d70f887a-0605-4486-8679-3a7354b05717)
+
+
+
+
+ 
+ 
  
  
  
@@ -98,3 +117,5 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 
 
 ### RESULTS :  
+
+Thus,the inverse kinematics using DH parameters for a 3 dof planer and 3 dof articulated robot using roboanalyzer is analysed and the graph of joint angle for a given input end effector position is plotted.
