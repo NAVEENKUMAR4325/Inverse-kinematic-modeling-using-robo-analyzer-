@@ -51,13 +51,13 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 
 
 ### SIMULATION 
- RPR:
+ RPR Robot:
  
  ![Rpr1](https://github.com/NAVEENKUMAR4325/Inverse-kinematic-modeling-using-robo-analyzer-/assets/119479566/7fd31f74-d849-4786-9127-2a85a7ee4019)
 
  ![rpr2](https://github.com/NAVEENKUMAR4325/Inverse-kinematic-modeling-using-robo-analyzer-/assets/119479566/0167f499-bc2b-48c7-9165-0fc0b3a4d07e)
 
- 3R Robot
+ 3R Robot:
  
  ![3R 1](https://github.com/NAVEENKUMAR4325/Inverse-kinematic-modeling-using-robo-analyzer-/assets/119479566/a0c18c36-d5fe-4258-9638-fbe0330a75ab)
  
@@ -70,13 +70,13 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
  
  ### PLOT:
  
- RPR Robot
+ RPR Robot:
  
  ![pl  rpr1](https://github.com/NAVEENKUMAR4325/Inverse-kinematic-modeling-using-robo-analyzer-/assets/119479566/074b0c14-1b72-46d1-a9d3-d553c0264d33)
  
  ![pl rpr2](https://github.com/NAVEENKUMAR4325/Inverse-kinematic-modeling-using-robo-analyzer-/assets/119479566/65d39f5f-ff14-4e11-a3e1-d931805cd656)
  
- 3R Robot
+ 3R Robot:
  
  ![pl 3r1](https://github.com/NAVEENKUMAR4325/Inverse-kinematic-modeling-using-robo-analyzer-/assets/119479566/015248fe-c0cc-4c85-87e4-747534192616)
  
